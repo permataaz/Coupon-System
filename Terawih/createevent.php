@@ -1,4 +1,3 @@
-TEsttttt
 
 <?php
 session_start();
