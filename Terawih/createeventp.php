@@ -16,5 +16,5 @@
     ('".$eventname."', '".$eventvenue."','".$eventdate."','".$timestart."','".$timeend."','0','0','1', '".$clubcode."')";
 
     mysqli_query($conn, $sql);
-   // echo "<script language = 'javascript'>alert('Registration is success.');window.location='dashboard.php';</script>";
+    echo "<script language = 'javascript'>alert('Registration is success.');window.location='dashboard.php';</script>";
  ?>
